@@ -15,8 +15,8 @@ A lightweight Aspect Ratio Calculator for quickly resizing images or videos whil
 
 🚀 Use Cases
 
-Resizing images for websites and social media
+- Resizing images for websites and social media
 
-Scaling videos for different screen sizes
+- Scaling videos for different screen sizes
 
-Maintaining consistent layouts in responsive design
+- Maintaining consistent layouts in responsive design
