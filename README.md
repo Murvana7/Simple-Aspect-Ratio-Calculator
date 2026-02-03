@@ -1,7 +1,7 @@
 # Simple-Aspect-Ratio-Calculator
 A lightweight Aspect Ratio Calculator for quickly resizing images or videos while keeping proportions intact. Enter any two values, and the missing dimension is calculated instantly.  Perfect for web design, responsive layouts, and media scaling.
 
-✨ Features
+## ✨ Features
 
 - Calculate missing width or height automatically
 
@@ -13,7 +13,7 @@ A lightweight Aspect Ratio Calculator for quickly resizing images or videos whil
 
 - Ideal for web design, video editing, and UI layouts
 
-🚀 Use Cases
+## 🚀 Use Cases
 
 - Resizing images for websites and social media
 
@@ -21,7 +21,7 @@ A lightweight Aspect Ratio Calculator for quickly resizing images or videos whil
 
 - Maintaining consistent layouts in responsive design
 
-🛠️ Built With
+## 🛠️ Built With
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" />
